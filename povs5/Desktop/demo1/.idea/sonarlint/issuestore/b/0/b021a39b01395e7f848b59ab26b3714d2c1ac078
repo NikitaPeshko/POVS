@@ -1,0 +1,45 @@
+
+t
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê¥ÊÚûÿÿÿÿ
+o
+java:S2293S"YReplace the type specification in this constructor call with the diamond operator ("<>").(øÀ†”
+P
+java:S1141P"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+q	java:S116"WRename this field "start_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§¼Äûÿÿÿÿ
+j	java:S116""URename this field "line_chart" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¨¹
+Q	java:S125$"<This block of commented-out lines of code should be removed.(ÚÛô
+Q
+java:S26968"6Make the enclosing method "static" or remove this set.(È½‡êûÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(ˆ¼Á¡ùÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(±Ú‹¤
+V	java:S125?"<This block of commented-out lines of code should be removed.(·êÑøıÿÿÿÿ
+1
+java:S3626["Remove this redundant jump.(ûÁİ…
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(–ñ«ê
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(³Òú©ùÿÿÿÿ
+>	java:S108`")Either remove or fill this block of code.(”ı¾
+S
+java:S1128"8Remove this unused import 'javafx.application.Platform'.(§“óùÿÿÿÿ
+R
+java:S1128"7Remove this unused import 'javafx.scene.canvas.Canvas'.(á­Š©üÿÿÿÿ
+P
+java:S1128
+":Remove this unused import 'javafx.scene.chart.NumberAxis'.(™áµœ
+g
+java:S1128"LRemove this unused import 'com.fazecast.jSerialComm.SerialPortDataListener'.(ÇÒÎ½ùÿÿÿÿ
+[
+java:S1128"ERemove this unused import 'com.fazecast.jSerialComm.SerialPortEvent'.(ŠÄ‡—
+K
+java:S1128"5Remove this unused import 'javafx.scene.paint.Color'.(Ïî£à
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+W
+java:S1128"ARemove this unused import 'java.io.UnsupportedEncodingException'.(Ãµ…“
+D
+java:S1128")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+P
+java:S1128"5Remove this unused import 'java.util.ResourceBundle'.(ıÆ£¯øÿÿÿÿ
+P
+java:S1128":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş

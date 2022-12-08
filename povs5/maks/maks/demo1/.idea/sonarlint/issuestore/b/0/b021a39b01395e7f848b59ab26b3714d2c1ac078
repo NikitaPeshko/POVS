@@ -1,0 +1,46 @@
+
+t
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê¥ÊÚûÿÿÿÿ
+p
+java:S2293ˆ"YReplace the type specification in this constructor call with the diamond operator ("<>").(øÀ†”
+Q
+java:S1141…"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+q	java:S116"WRename this field "start_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§¼Äûÿÿÿÿ
+j	java:S116("URename this field "line_chart" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¨¹
+Q
+java:S26969"6Make the enclosing method "static" or remove this set.(È½‡êûÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(ˆ¼Á¡ùÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(±Ú‹¤
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(â©½÷
+T
+java:S1117L"9Rename "flagC" which hides the field declared at line 45.(­®ß¾øÿÿÿÿ
+E
+java:S1481L"*Remove this unused "flagC" local variable.(­®ß¾øÿÿÿÿ
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(Ì·œ
+O
+java:S1117U"9Rename "flagC" which hides the field declared at line 45.(éÀõ¯
+@
+java:S1481U"*Remove this unused "flagC" local variable.(éÀõ¯
+N	java:S106]"9Replace this use of System.out or System.err by a logger.(®¬¼†
+O
+java:S1117^"9Rename "flagC" which hides the field declared at line 45.(éÀõ¯
+@
+java:S1481^"*Remove this unused "flagC" local variable.(éÀõ¯
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(Î²–ÿ
+O
+java:S1117g"9Rename "flagC" which hides the field declared at line 45.(éÀõ¯
+@
+java:S1481g"*Remove this unused "flagC" local variable.(éÀõ¯
+N	java:S106p"9Replace this use of System.out or System.err by a logger.(õĞºˆ
+O
+java:S1117q"9Rename "flagC" which hides the field declared at line 45.(éÀõ¯
+@
+java:S1481q"*Remove this unused "flagC" local variable.(éÀõ¯
+2
+java:S3626"Remove this redundant jump.(ûÁİ…
+O	java:S106‚"9Replace this use of System.out or System.err by a logger.(–ñ«ê
+T	java:S106‡"9Replace this use of System.out or System.err by a logger.(³Òú©ùÿÿÿÿ
+?	java:S108“")Either remove or fill this block of code.(”ı¾
+T	java:S106›"9Replace this use of System.out or System.err by a logger.(˜ØĞşÿÿÿÿ
+?	java:S108")Either remove or fill this block of code.(”ı¾
+R	java:S125¨"<This block of commented-out lines of code should be removed.(²í¬å
